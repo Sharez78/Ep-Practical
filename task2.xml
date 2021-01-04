@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task2 SYSTEM "NewFile.dtd">  
+<!DOCTYPE task2 SYSTEM "Task2dtd.dtd">  
 <students>
  <student>
    <name>Sharez</name>
