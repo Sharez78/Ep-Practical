@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT NewFile (name,id,branch,cgpa)>  
+<!ELEMENT Task1 (name,id,branch,cgpa)>  
 <!ELEMENT name (#PCDATA)>  
 <!ELEMENT id (#PCDATA)>  
 <!ELEMENT branch (#PCDATA)>  
