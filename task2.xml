@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task2 SYSTEM "NewFile.dtd">  
+<students>
+ <student>
+   <name>Sharez</name>
+   <id>190031510</id>
+   <branch>CSE</branch>
+   <cgpa>8.4</cgpa>
+   <avg>88</avg>
+   <time>1pm</time>
+   <mobileno>8328088624</mobileno>
+   <distinction>Na</distinction>
+   <dob>15/01/2002</dob>
+ </student>
+ <student>
+  <name>Aakif</name>
+   <id>1900322330</id>
+   <branch>Ece</branch>
+   <cgpa>10.0</cgpa>
+      <avg>88</avg>
+   <time>2pm</time>
+   <mobileno>9632587416</mobileno>
+   <distinction>Na</distinction>
+      <dob>24/08/2001</dob>
+ </student>
+ <student>
+  <name>Chaitanya</name>
+   <id>190031071</id>
+   <branch>CSE</branch>
+   <cgpa>9.4</cgpa>
+      <avg>88</avg>
+   <time>1pm</time>
+   <mobileno>9999999999</mobileno>
+   <distinction>Na</distinction>
+      <dob>20/01/2002</dob>
+ </student>
+  <student>
+  <name>Varu</name>
+   <id>190030592</id>
+   <branch>CSE</branch>
+   <cgpa>9.4</cgpa>
+      <avg>88</avg>
+   <time>9pm</time>
+   <mobileno>9635821478</mobileno>
+   <distinction>NA</distinction>
+      <dob>24/01/2002</dob>
+ </student>
+  <student>
+  <name>Arshad</name>
+   <id>190031067</id>
+   <branch>CSE</branch>
+   <cgpa>9.0</cgpa>
+      <avg>88</avg>
+   <time>7pm</time>
+   <mobileno>9874563214</mobileno>
+   <distinction>Na</distinction>
+      <dob>15/04/2002</dob>
+ </student>
+ 
+</students>
