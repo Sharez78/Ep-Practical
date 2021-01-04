@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT task2 (name,id,branch,cgpa,avg,time,distinction,mobileno,dob)>  
+<!ELEMENT name (#PCDATA)>  
+<!ELEMENT id (#PCDATA)>  
+<!ELEMENT branch (#PCDATA)>  
+<!ELEMENT cgpa (#PCDATA)>  
+<!ELEMENT avg (#PCDATA)>  
+<!ELEMENT time (#PCDATA)>  
+<!ELEMENT distinction (#PCDATA)>  
+<!ELEMENT mobileno (#PCDATA)>  
+<!ELEMENT dob (#PCDATA)>  
