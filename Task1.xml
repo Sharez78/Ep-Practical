@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task1 SYSTEM "task1dtd.dtd">
 <students>
  <student>
    <name>Sharez</name>
