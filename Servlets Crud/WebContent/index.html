@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<head>
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Add Student</h1>  
+<form action="AddServlet" method="post">  
+<table>
+<tr><td>Id:</td><td><input type="text" name="id"/></td></tr>  
+<tr><td>Regno:</td><td><input type="text" name="regno"/></td></tr>
+<tr><td>Name:</td><td><input type="text" name="name"/></td></tr>  
+<tr><td>Password:</td><td><input type="password" name="password"/></td></tr>  
+<tr><td>Email:</td><td><input type="email" name="email"/></td></tr>  
+<tr><td>Branch:</td><td>  
+<select name="branch" style="width:150px">  
+<option>CSE</option>  
+<option>ECE</option>  
+<option>EEE</option>  
+<option>ME</option>  
+</select>  
+</td></tr> 
+<tr><td>City:</td><td>  
+<select name="city" style="width:150px">  
+<option>Vijayawada</option>  
+<option>Guntur</option>  
+<option>Tenali</option>  
+<option>Eluru</option>  
+</select>  
+</td></tr>  
+<tr><td colspan="2"><input type="submit" value="Add Student"/></td></tr>  
+</table>  
+</form>  
+<br/>  
+<a href="ViewStudentServlet?page=1">view Students</a>
+</body>
+</html>
